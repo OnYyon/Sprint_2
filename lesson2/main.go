@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"lesson2/task3"
+
+	"github.com/OnYyon/Sprint_2/task3"
 )
 
 func main() {
