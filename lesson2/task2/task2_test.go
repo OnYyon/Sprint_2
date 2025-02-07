@@ -1,6 +1,8 @@
 package task2
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestTask2(t *testing.T) {
 	ch := make(chan int)
